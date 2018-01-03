@@ -1,5 +1,3 @@
-/ckage org.slf4j;
-
 public interface Logger {
     String ROOT_LOGGER_NAME = "ROOT";
 
